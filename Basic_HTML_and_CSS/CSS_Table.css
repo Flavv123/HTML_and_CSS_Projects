@@ -1,0 +1,28 @@
+.center {
+	text-align:center;
+	justify-content: center
+
+}
+
+table {
+	border: 1px solid black;
+
+}
+
+td:hover {
+	background-color: red;
+	color: black;
+
+}
+
+tr, th {
+	background-color: black;
+	color: gold;
+	
+}
+
+tr, td {
+	background-color: darkblue;
+	color: white;
+}
+
