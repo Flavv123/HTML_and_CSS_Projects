@@ -1,0 +1,14 @@
+html *
+{
+   font-size: 1em !important;
+   color: #000 !important;
+   font-family: Arial !important;
+}
+
+input {
+   padding: 12px 20px;
+   margin: 8px 0;
+   border: 2px solid black;
+   border-radius: 4px;
+   background-color: lightgrey;
+ }
